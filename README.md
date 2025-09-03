@@ -18,7 +18,7 @@ Glaucoma: Progressive damage to the optic nerve, often associated with increased
 
 Normal: Healthy retina with no visible abnormalities.
 
-Dataset source: [Eye Diseases Classification Kaggle](https://www.kaggle.com/code/mahnazarjmand/eye-diseases-classification/input)
+Dataset source:  [Eye Diseases Classification Kaggle](https://www.kaggle.com/code/mahnazarjmand/eye-diseases-classification/input)
 
 
 # Project Structure
