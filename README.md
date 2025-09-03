@@ -22,7 +22,7 @@ It can be found at [Eye Diseases Classification Kaggle](https://www.kaggle.com/c
 
 # Project Structure
 
-### 1. Classification
+## 1. Classification
 
 Preprocessing and data augmentation (resize, random flip, rotation, color jitter, normalization)
 
@@ -36,31 +36,31 @@ Evaluation includes confusion matrix and classification report
 
 Visual inspection of predicted vs. actual labels for random test images
 
-### 2. Segmentation
+## 2. Segmentation
 
-Vessel Segmentation:
+### Vessel Segmentation:
 
-Converts RGB to grayscale
+*Converts RGB to grayscale
 
-Enhances contrast using CLAHE
+*Enhances contrast using CLAHE
 
-Detects vessels using Canny edge detection
+*Detects vessels using Canny edge detection
 
-Lesion Approximation:
+### Lesion Approximation:
 
-Converts RGB to HSV
+*Converts RGB to HSV
 
-Detects red regions (common in DR and other retinal lesions)
+*Detects red regions (common in DR and other retinal lesions)
 
-Applies morphological operations to clean up the mask
+*Applies morphological operations to clean up the mask
 
-Feature Extraction:
+## Feature Extraction:
 
-Vessel density
+*Vessel density
 
-Lesion area
+*Lesion area
 
-Color features: mean and standard deviation of RGB channels, brightness
+*Color features: mean and standard deviation of RGB channels, brightness
 
 # Results
 
