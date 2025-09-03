@@ -17,6 +17,8 @@ Diabetic Retinopathy (DR): Damage to retinal blood vessels due to diabetes; can 
 Glaucoma: Progressive damage to the optic nerve, often associated with increased intraocular pressure.
 
 Normal: Healthy retina with no visible abnormalities.
+It can be found at [Eye Diseases Classification Kaggle](https://www.kaggle.com/code/mahnazarjmand/eye-diseases-classification/input)
+
 
 # Project Structure
 
