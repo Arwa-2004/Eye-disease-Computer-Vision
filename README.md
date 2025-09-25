@@ -35,8 +35,7 @@ Training using CrossEntropyLoss and Adam optimizer
 
 Evaluation includes confusion matrix and classification report
 
-Visual inspection of predicted vs. actual labels for random test images
-YOLO test change 🚀
+
 
 ## 2. Segmentation
 
